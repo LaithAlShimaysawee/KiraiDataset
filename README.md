@@ -1,5 +1,5 @@
 # Kirai Dataset
-A new accurate ground truthed dataset of aerial high dynamic range infrared imagery containing heat signature of koalas. The dataset is known as Koala InfraRed Aerial Imagery (Kirai). The paper proposing the dataset has been published on MPDI sensors journal. The Kirai dataset will be made publicly available once the paper is published.
+A new accurate ground truthed dataset of aerial high dynamic range infrared imagery containing heat signature of koalas. The dataset is known as Koala InfraRed Aerial Imagery (Kirai). The paper proposing the dataset has been published on MPDI sensors journal. The Kirai dataset will be made publicly available soon.
 
 For more information or collaboration, please do not hesitate to contact me  (laith.alshimaysawee@gmail.com)
 
